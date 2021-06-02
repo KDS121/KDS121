@@ -11,3 +11,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"></code>
 <code><img height="20" src="https://sentry.io/_assets/logos/node-3424bd51a773808e4b2473878d45009ded79ac1a897b64de6fb68b8e0dd4a697.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
+
+
+![Karandeep's github stats](https://github-readme-stats.vercel.app/api?username=KDS121)
