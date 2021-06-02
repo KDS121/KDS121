@@ -14,3 +14,5 @@
 
 
 ![Karandeep's github stats](https://github-readme-stats.vercel.app/api?username=KDS121)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDS121)](https://github.com/KDS121/github-readme-stats)
